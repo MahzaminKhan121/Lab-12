@@ -1,0 +1,35 @@
+
+.block-style{
+	
+	width: 300px;
+	height:150px;
+	
+	/*
+	border-top: 10px dotted red;
+	border-right: 10px dashed green;
+	border-bottom: 10px double blue;
+	border-left: 10px solid yellow;
+	*/
+	
+	border: solid green;
+	padding: 50px;
+	margin:50px;
+}
+
+.content-style{
+	width: 300px;
+	height: 150px;
+	
+	/*
+	border-top: 10px dotted red;
+	border-right: 10px dashed green;
+	border-bottom: 10px double blue;
+	border-left: 10px solid yellow;
+	*/
+	
+	border: solid red;
+	padding: 50px;
+	margin:50px;
+
+}
+
